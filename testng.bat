@@ -1,2 +1,0 @@
-cd C:\Users\satee\eclipse-workspace\DemoProject
-java -cp C:\Users\satee\eclipse-workspace\DemoProject\lib\*;C:\Users\satee\eclipse-workspace\DemoProject\bin org.testng.TestNG C:\Users\satee\eclipse-workspace\DemoProject\testng.xml
